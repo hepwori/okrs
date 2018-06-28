@@ -1,6 +1,6 @@
 # OKRs for Smart People
 
-*This is the outline of a presentation I put together in 2008, when trying to standardize the OKR process across an organization of ~250 people. A decade later I have patches I need to apply, but in the meantime folks I know have found this useful.*
+*This is the outline of a presentation I put together in 2008, when trying to standardize the OKR process across an organization of ~250 people. A decade later I have patches I need to apply, but in the meantime folks I know have found this useful so I'm sharing it here.*
 
 ---
 ## There are only two types of goal-setting frameworks: the kind that everybody hates, and the kind that nobody uses.
