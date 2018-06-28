@@ -57,9 +57,13 @@ Defining objectives:
 
 Defining Key Results:
 
-* **Measurable achievements** which you could accomplish in a quarter Don’t include key results which can’t be measured
+* **Measurable achievements** which you could accomplish in a quarter
 
-* **Metrics and deadlines** should be included in each Key Result e.g., “Launch product X and reach Ym users by end of January”
+  Don’t include key results which can’t be measured
+
+* **Metrics and deadlines** should be included in each Key Result
+
+  *e.g., “Launch product X and reach Ym users by end of January”*
 
 * Some Key Results may be deliberately **stretching** and marked as such
 
