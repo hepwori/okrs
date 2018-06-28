@@ -87,13 +87,13 @@ Remember:
 
 * Your Key Results should be **framed in terms of business or product**
 
-  * Avoid creating an implementation task list
+  * **Avoid** creating an implementation task list
 
-  * The value of the result should be clear in the context of the objective
+  * The **value of the result** should be clear in the context of the objective
 
-  * Delivery of the result should be within the team’s control
+  * Delivery of the result should be **within the team’s control**
 
-  * The Key Result should make sense, without explanation, to a reviewer outside the team
+  * The Key Result should **make sense, without explanation**, to a reviewer outside the team
 
     *Old and busted*: “Register all torso objs in the object registry and migrate to BT”
   
