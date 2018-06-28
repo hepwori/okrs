@@ -17,7 +17,7 @@ We love OKRs:
    
 * **Accurate communication**
 
-   Lets everyoneo know and agree on what's important
+   Lets everyone know and agree on what's important
    
 * **Established indicators for measuring progress**
 
